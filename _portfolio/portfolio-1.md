@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Boca de Ouro"
+excerpt: "O GTP deu vida à história de um poderoso bicheiro que domina a contravenção no bairro de Madureira no Rio de Janeiro. Short description of portfolio item number 1<br/><img src='/images/Boca.png'>"
 collection: portfolio
 ---
 
