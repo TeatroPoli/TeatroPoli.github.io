@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "História"
+permalink: /historia/
 author_profile: true
 ---
 
