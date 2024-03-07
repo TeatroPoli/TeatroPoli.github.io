@@ -4,4 +4,22 @@ excerpt: "Na Espanha do século XIX, morte e paixão marcam os detinos das perso
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# Ficha Técnica
+
+<br/><img src='/images/CartazBodas.jpg'>
+
+## Autor
+Federico García Lorca.
+
+## Direção
+Neia Barbosa.
+
+## Elenco
+Andrey Gomes, Caique Pachá, Ewerton Barros, Hiaman, Hillary Henrique, Isabela Mosna, Júlio Moura, Lucas Moraes, Lucas Salles, Luis Felipe Santos, Mariana Mendes, Nicolas Sobral, Pedro Godinho.
+
+## Música
+Luís Felipe Santos e Victor Ramos
+
+## Temporada
+Em cartaz de 25/10/2022 a 13/12/2022, no Laboratório Dramático Antônio Januzelli. 
+
