@@ -1,8 +1,9 @@
 ---
 title: "Boca de Ouro (2024)"
-excerpt: "O GTP deu vida à história do Boca de Ouro, respeitado e temido bicheiro que domina a contravenção no bairro de Madureira, no Rio de Janeiro.
+excerpt: "O GTP deu vida à história do Boca de Ouro, respeitado e temido bicheiro que domina a contravenção no bairro de Madureira, no Rio de Janeiro."
 
-<br/><img src='/images/Boca.jpg'>"
+<br/><img src='/images/Boca.jpg'>
+
 collection: portfolio
 ---
 
