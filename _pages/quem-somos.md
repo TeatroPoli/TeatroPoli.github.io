@@ -13,5 +13,5 @@ Nossa missão é desenvolver um programa de arte-educação, contribuindo para a
 ### Visão
 Oferecer aos nossos alunos-atores a aquisição da linguagem artística e incentivando sua autonomia.
 
-### Pricípios
+### Princípios
 Nos orientamos pelos princípios de liberdade e nos ideais da solidariedade humana, norteadores da arte-educação.
