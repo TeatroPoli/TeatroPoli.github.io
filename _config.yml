@@ -201,7 +201,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  historia:
+  quemsomos:
     output: true
     permalink: /:collection/:path/
   portfolio:
