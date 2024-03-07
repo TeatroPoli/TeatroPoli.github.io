@@ -6,7 +6,7 @@ collection: portfolio
 
 # Ficha Técnica
 
-<br/><img src='/images/CartazBodas.jpg'>
+<br/><img src='/images/CartazBodas.JPG'>
 
 ## Autor
 Federico García Lorca.
