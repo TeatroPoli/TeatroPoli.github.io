@@ -4,16 +4,16 @@ main:
     url: /historia/
 
   - title: "Professores"
-    url: /talks/    
+    url: /professores/    
 
   - title: "Turmas"
-    url: /teaching/    
+    url: /turmas/    
     
   - title: "Portfólio"
     url: /portfolio/
         
   - title: "Mídia"
-    url: /year-archive/
+    url: /midia/
     
   - #title: "CV"
     #url: /cv/
